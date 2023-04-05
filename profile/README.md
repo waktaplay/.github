@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">왁타플레이 WAKTAPLAY 🚀</h1>
-<!-- <h3 align="center"></h3> -->
-<!-- <p align="center">
-    <a href="https://waktaplay.xyz" target="_blank">🔗 Official Web Site</a>
-</p> -->
+<h3 align="center"></h3>
+<p align="center">
+    <a href="https://waktaplay.com/" target="_blank">🔗 Official Web Site</a>
+</p>
