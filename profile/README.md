@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1089230153323909210/1089249752853512252/waktaplay_logo_4x.png" align="center" width="100px" style="border-radius: 50%;">
+    <img src="https://github.com/waktaplay/.github/assets/67222970/007e70eb-10ad-4404-8383-e1beaa7e341b" align="center" width="100px" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">왁타플레이 WAKTAPLAY 🚀</h1>
-<h3 align="center"></h3>
+<h1 align="center">SpaceWak 🚀</h1>
+<h3 align="center">왁타버스 종합 엔터테인먼트 포털</h3>
 <p align="center">
-    <a href="https://waktaplay.com/" target="_blank">🔗 Official Web Site</a>
+    <a href="https://waktaplay.com/" target="_blank">🔗 Website</a>
 </p>
