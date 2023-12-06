@@ -5,5 +5,6 @@
 <h1 align="center">SpaceWak 🚀</h1>
 <h3 align="center">왁타버스 종합 엔터테인먼트 포털</h3>
 <p align="center">
-    <a href="https://waktaplay.com/" target="_blank">🔗 Website</a>
+    <a href="https://spacewak.net/" target="_blank">🔗 Website</a> | 
+    <a href="https://waktaplay.com/" target="_blank">🔗 Music Website</a>
 </p>
